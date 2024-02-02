@@ -1,0 +1,8 @@
+{
+  "name": "@ordrio/shared-files",
+  "version": "0.0.1",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ]
+}
